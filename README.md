@@ -1,1 +1,1 @@
-Güneş paneli analizi
+Derin Öğrenme modelleriyle sınıflandırma. PDF Bakınız.
