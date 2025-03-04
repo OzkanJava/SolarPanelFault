@@ -1,1 +1,1 @@
-AŞkım sıla
+Güneş paneli analizi
